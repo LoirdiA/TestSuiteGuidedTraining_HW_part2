@@ -1,0 +1,15 @@
+﻿{
+  "Id": "4q0II2mbyEC1dKBn8I6dtg",
+  "Reference": "tM7om5yeqk6jfWt3AZY0Ng/4q0II2mbyEC1dKBn8I6dtg",
+  "ParentRef": "tM7om5yeqk6jfWt3AZY0Ng/yLBzK-E3B0-Kyjv7v9bM3Q",
+  "Name": "SuccessRate",
+  "Type": "Screen",
+  "Created": "2023-04-11T08:14:20.2882964Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-11T08:14:26.8744066Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

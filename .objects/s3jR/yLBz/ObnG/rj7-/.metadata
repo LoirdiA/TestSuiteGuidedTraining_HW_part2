@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rj7-CP-F-U6uCM_CHTY4rw",
+  "Reference": "tM7om5yeqk6jfWt3AZY0Ng/rj7-CP-F-U6uCM_CHTY4rw",
+  "ParentRef": "tM7om5yeqk6jfWt3AZY0Ng/ObnG1mu92Uilely3KUY3Yw",
+  "Name": "GenericElement",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-11T07:55:34.1063662Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-11T07:57:24.5120332Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zMiwpR8RvUy1ShBh6ntZwA",
+  "Reference": "tM7om5yeqk6jfWt3AZY0Ng/zMiwpR8RvUy1ShBh6ntZwA",
+  "ParentRef": "tM7om5yeqk6jfWt3AZY0Ng/4q0II2mbyEC1dKBn8I6dtg",
+  "Name": "RateMessage",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2023-04-11T08:16:44.9538709Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-11T08:17:37.3873737Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

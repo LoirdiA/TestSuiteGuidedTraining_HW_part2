@@ -1,0 +1,15 @@
+﻿{
+  "Id": "ObnG1mu92Uilely3KUY3Yw",
+  "Reference": "tM7om5yeqk6jfWt3AZY0Ng/ObnG1mu92Uilely3KUY3Yw",
+  "ParentRef": "tM7om5yeqk6jfWt3AZY0Ng/yLBzK-E3B0-Kyjv7v9bM3Q",
+  "Name": "CompleteFields",
+  "Type": "Screen",
+  "Created": "2023-04-11T07:36:54.0082485Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-11T07:37:07.9254428Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
